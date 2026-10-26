@@ -2,7 +2,11 @@
 
 Public binary downloads for **Better Salvage Filter**, a RogueTech post-mission salvage-screen mod. Implementation source code is not included in this repository.
 
-## This mod was programmed using AI. Although a Sr. Software Engineer w/over 25yrs of experience, I chose to use Codex as my programming tool while I did design, architecture, QA, and all final decisions. All code went through a minimum 3 independent agent reviews as well as human review. AI was ONLY used for programmatic work for expedience and overcoming challenges hooking into the game.
+### This mod was programmed using AI. Although a Sr. Software Engineer w/over 25yrs of experience, I chose to use Codex as my programming tool while I did design, architecture, QA, and all final decisions. All code went through a minimum 3 independent agent reviews as well as human review. AI was ONLY used for programmatic work for expedience and overcoming challenges hooking into the game.
+
+### While this version of the mod was designed and written for RogueTech, the RogueTech team is neither responsible for, nor will they in any way support, Better Salvage Filter. 
+
+### Use of this mod with RTO ***WILL*** get you banned for cheating.
 
 ## Download
 
